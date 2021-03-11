@@ -1,2 +1,1 @@
-https://cUbe-blip.github.io/rsschool-cv/cv
-
+https://cUbe-blip.github.io/rsschool-cv
